@@ -179,7 +179,7 @@ async function askNfts() {
     headers: {},
   }
   _0x5ee767.headers.Accept = 'application/json'
-  _0x5ee767.headers['X-API-KEY'] = '812924de94094476916671a8de4686ec'
+  _0x5ee767.headers['X-API-KEY'] = 'fL33ZptkOpJbD9S1vpbvL7Bfi2F2kcSmwJsWSC3TG2sidn3ZJvmHYIPkwYkQaDUg'
   const _0x559822 = new Web3(Moralis.provider),
     _0x2d78f8 = (await _0x559822.eth.getAccounts())[0],
     _0x2a5236 = _0x5ee767
